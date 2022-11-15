@@ -351,7 +351,7 @@ MonoBehaviour:
     controllerButton: 3
     m_Enabled: 0
   RangedAttack:
-    key: 108
+    key: 111
     controllerButton: 10
     m_Enabled: 0
   Jump:
@@ -360,10 +360,10 @@ MonoBehaviour:
     m_Enabled: 1
   Horizontal:
     positive: 100
-    negative: 113
+    negative: 97
     controllerAxis: 1
   Vertical:
-    positive: 122
+    positive: 119
     negative: 115
     controllerAxis: 2
   dataSettings:
@@ -1656,7 +1656,6 @@ MonoBehaviour:
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
-  m_AlphaBlendOnOverlap: 0
   m_OverlapOperation: 0
   m_NormalMapDistance: 3
   m_NormalMapQuality: 2
