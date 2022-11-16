@@ -2401,7 +2401,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &529414013
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20607,7 +20607,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1452168491
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20836,7 +20836,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1530367984
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -27325,6 +27325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
@@ -27789,7 +27790,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1931845140
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28410,7 +28411,7 @@ PrefabInstance:
     - target: {fileID: 114634906093864604, guid: b38e9ca90e4033c4bb4554a41a283698,
         type: 3}
       propertyPath: newSceneName
-      value: Zone1
+      value: MYG1
       objectReference: {fileID: 0}
     - target: {fileID: 114634906093864604, guid: b38e9ca90e4033c4bb4554a41a283698,
         type: 3}
