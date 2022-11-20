@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MYG1.unity
     guid: 51d65c1e87d3eec4e9d0cdc1860c6046
+  - enabled: 1
+    path: Assets/MYG2.unity
+    guid: 94691ad6d9b40b84ba86dd6181d2e853
   m_configObjects: {}
