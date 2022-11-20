@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MYG2.unity
     guid: 94691ad6d9b40b84ba86dd6181d2e853
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/MYGBoss.unity
+    guid: 9b9864dffc66e384a9c4b4e37c66d335
   m_configObjects: {}
